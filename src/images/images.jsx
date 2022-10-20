@@ -45,7 +45,7 @@ let products = [
     {
         num: 8,
         id: "YLNMXzXk8zs",
-        title: "IApple iPhone 11 pro",
+        title: "Apple iPhone 11 pro",
         price: 849,
     },
     {
